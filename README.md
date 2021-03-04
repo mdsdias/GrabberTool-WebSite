@@ -6,6 +6,22 @@
 
 <h1 align="center"> Agora em site! </h1>
 
+<div align="center">
+	<div>
+		<table>
+			<tbody>
+				<h1><a href="https://github.com/Isqneeh/GrabberTool"><br /><b>Repositorio📁</b><br /></a></h1>
+				<h1><a href="https://tool.grabbertool.cloudns.cl/checker"><br /><b>CC Checker👨‍💻</b><br /></a></h1>
+			</tbody>
+		</table>
+	</div>
+</div>
+</div>
+</div>
+<div>
+  <center><h1><a href="https://tool.grabbertool.cloudns.cl/creditos"><b><br />Criador do Site👨‍💻!<br /></b></a></h1></center>
+</div>
+
 # Documentação!
 ## Funcionamento!
 #### Fizemos um sistema simples de se entender para facitamento geral!
