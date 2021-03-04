@@ -18,8 +18,8 @@
 </div>
 </div>
 </div>
-<div>
-  <center><h1><a href="https://tool.grabbertool.cloudns.cl/creditos"><b><br />Criador do Site👨‍💻!<br /></b></a></h1></center>
+<div align="center">
+  <h1><a href="https://tool.grabbertool.cloudns.cl/creditos"><b><br />Criador do Site👨‍💻!<br /></b></a></h1>
 </div>
 
 # Documentação!
